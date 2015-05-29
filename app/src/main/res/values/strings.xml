@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vkwall</string>
+
+    <string name="login_error">Something goes wrong.\nTap to reload</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="tap_to_reload">Tap to reload</string>
+    <string name="no_results_text">No results found</string>
+    <string name="menu_logout">logout</string>
+    <string name="unknown_author">Unknown Author :(</string>
+    <string name="unknown_format">\"*** Only text or image available right now :) ***\"</string>
+</resources>
